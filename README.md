@@ -15,6 +15,8 @@ The more fit parents are more likely to reproduce and thus the next generation o
 We can introduce mutations, that is, random events that change each individual (with regards to the TSP, it swaps the order of two cities at random). We continue to evolve the population until our population becomes the same solution or we reach some threshold or time limit.
 
 # Parameters
-Population Size: This is number of individuals in our population
-Number of Evolution Iterations/Generations: Number of times to advance the population and create offspring/mutations
-Elite : The population to deem as elite individuals. Elite individuals have very high fitness scores (or low path costs)
+Population Size: This is number of individuals in our population.
+
+Number of Evolution Iterations/Generations: Number of times to advance the population and create offspring/mutations.
+
+Elite : The population to deem as elite individuals. Elite individuals have very high fitness scores (or low path costs).
